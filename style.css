@@ -1,0 +1,56 @@
+html, body {
+    background-color: rgb(34, 90, 82);
+    height : 100%;
+    width : 100%;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.jumbotron {
+    background-color: rgb(182, 96, 39);
+    padding: 0px 0px 10px 0px;
+}
+
+.card-body {
+    background-color: rgb(182, 96, 39);
+}
+
+.container
+{
+    height : 85%;
+    width : 100%;
+}
+
+.navbar {
+    background-color: grey;
+    height : 10%;
+}
+
+.header {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+#btn {
+    background-color: honeydew;
+}
+
+#row1 {
+    height : 85%;
+}
+
+#search-div {
+    background-color: whitesmoke;
+    height : 100%;
+}
+
+#weather-div {
+    background-color: whitesmoke;
+    height : 50%;
+}
+
+#search-submit {
+    background-color: tomato;
+}
+
+p {
+    font-size: 14px;
+}
